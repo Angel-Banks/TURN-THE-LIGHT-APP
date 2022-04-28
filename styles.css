@@ -9,6 +9,7 @@ img {
 
 }
 
+
 .container {
   width: 100%;
   margin: auto;
@@ -22,6 +23,10 @@ h1 {
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #4ECCA3;
+}
+
+button {
+    background-color: #4ECCA3;
 }
 
 footer {
